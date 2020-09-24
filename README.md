@@ -4,4 +4,4 @@
 
 - :fire: Currently learning Swift
 - :purple_heart: In love with Figma
-- :smile: Discovering python
+- :smile: Discovering Python
