@@ -2,6 +2,6 @@
 
 <!--**robertpelka/robertpelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- :fire: Currently learning Swift
-- :purple_heart: In love with Figma
-- :smile: Discovering Python
+- Currently learning Swift :fire:
+- In love with Figma :purple_heart:
+- Discovering Python :smile:
